@@ -1,4 +1,4 @@
-[![MasterHead](assets/banner.png)](https://dmoulinie.live)
+[![MasterHead](banner.png)](https://dmoulinie.live)
 
 <h1 align="center"> Moulinie Dan </h1>
 
